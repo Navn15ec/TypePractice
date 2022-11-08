@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello Naveen</h1>
-      <h2>This is for Testing git</h2>
+
       <CakeView />
       <TodoView />
     </div>
